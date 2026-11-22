@@ -1,0 +1,5 @@
+# Generated entry output: main.ts copies game/ and screenshots/ here and writes
+# dossier.json. It must never be committed, or a worktree check would count the
+# copied files as part of the entry's snapshot.
+/out/
+/out-*/
