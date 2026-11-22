@@ -1,0 +1,3 @@
+# Keep committed bytes identical to the working-tree files the game and the
+# recorder read: normalize text to LF on commit and never check it out as CRLF.
+* text=auto eol=lf
